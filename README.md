@@ -9,7 +9,7 @@ Alura Play é um projeto front-end feito para desenvolver as habilidades em Flex
 | :rocket: URL         | https://arthurvicttor.github.io/projeto-alura-play/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](./assets/img/design-desktop.png#vitrinedev)
+![](./img/design-desktop.png#vitrinedev)
 
 ## Detalhes do projeto
 Esse projeto me ajudou bastante com as dúvidas que eu tinha em relação a Flexbox e layouts responsivos, creio que melhorei bastante meus fundamentos e estou pronto para o próximo passo na carreira de DEV.
